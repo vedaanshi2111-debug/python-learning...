@@ -1,0 +1,18 @@
+a = int(input("Enter your age; "))
+print("your age is" , a)
+print(a > 18)
+print(a<=18)
+print(a==18)
+print(a!=18)
+if(a>18):
+ print("you can do it")
+else:
+  print("you cant do it")
+
+output: Enter your age; 8 
+your age is 8
+False
+True
+False
+True
+you cant do it
