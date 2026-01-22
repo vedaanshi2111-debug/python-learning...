@@ -79,3 +79,23 @@ Student 2
 Enter student name: BOB
 Enter percentage marks: 33
 BOB has scored 33.0% → Fail
+
+DAY:-3 for i in range(2):
+    name = input("Enter student name: ")
+    marks = float(input("Enter percentage marks: "))
+
+    if marks >= 90:
+        grade = "A+"
+    elif marks >= 80:
+        grade = "A"
+    elif marks >= 70:
+        grade = "B+"
+    elif marks >= 60:
+        grade = "B"
+
+output-Enter student name: wee
+Enter percentage marks: 88
+Enter student name: wee
+Enter percentage marks: 35
+
+DAY4:-
