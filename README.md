@@ -11,7 +11,7 @@ A simple Python program to assign grades to 2 students based on their percentage
 * Display student name, marks, a Sample Output
 
 OUTPUT
-EWS has scored 85% → Grade: A
+EWS has scored 88% → Grade: A
 Bob has scored 35% - Grade: F
 
  Author
